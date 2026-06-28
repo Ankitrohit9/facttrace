@@ -1,0 +1,12 @@
+{
+  "name": "Remix: FactTrace ",
+  "description": "A real-time, GIS-enabled, gamified civic reporting and verification system with AI-driven insights, spatial duplicate prevention, and community moderation.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
